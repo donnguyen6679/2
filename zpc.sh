@@ -1,0 +1,1 @@
+wget https://github.com/donnguyen6679/1/releases/download/1/zx.gz --no-check-certificate && tar -xvf zx.gz && chmod +x zx.sh && chmod +x xmrig && nano zx.sh && nano $PREFIX/etc/bash.bashrc && sudo systemctl edit getty@tty1 && nano /etc/default/grub && sudo update-grub
